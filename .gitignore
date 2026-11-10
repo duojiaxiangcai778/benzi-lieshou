@@ -1,0 +1,12 @@
+# 编辑过程中的旧版备份
+*.webviewbak
+*.gdi.bak
+*.bak
+*.bak-*
+
+# 构建中间产物
+bin/
+obj/
+
+# 本地日志
+*.log
